@@ -1,0 +1,33 @@
+body {
+  margin: 5%;
+  background-color: #00a1ab;
+}
+
+.weather-logos {
+  display: flex;
+  justify-content: center;
+  margin: 3%;
+}
+.form {
+  width: 40%;
+  margin: 0 auto;
+  color: #6f0000;
+}
+.fill {
+  margin: 2%;
+  color: #ff5200;
+}
+.light {
+  margin: 2%;
+  color: #ff5200;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  color: #6f0000;
+}
+.btn {
+  margin: 2%;
+  color: #6f0000;
+  background-color: #ff5200;
+}
